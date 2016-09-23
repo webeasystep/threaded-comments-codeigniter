@@ -1,2 +1,2 @@
 # DEMO LINK #
-[build unique visitors counter with codeigniter](http://webeasystep.com/blog/view_article/how_to_build_unique_visitors_counter_with_codeigniter)
+[threaded-comments-codeigniter](http://webeasystep.com/blog/view_article/threaded_comments__in_codeigniter_easy_way)
